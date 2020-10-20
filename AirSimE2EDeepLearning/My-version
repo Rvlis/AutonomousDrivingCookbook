@@ -1,5 +1,5 @@
 Install anaconda with python=3.6
-pip install tensorflow==1.15.0
+pip install tensorflow==1.15.0(my laptop only hava cpu now)
 pip install keras
 conda install h5py
 pip install pytest
